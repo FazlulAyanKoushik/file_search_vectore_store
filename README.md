@@ -1,0 +1,1 @@
+# This is a test project to test file search and vector store and implement OPENAI chatbot feature.
